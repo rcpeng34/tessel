@@ -8,7 +8,7 @@ then logs its UID to the console.
 *********************************************/
 
 var child_process = require('child_process');
-child_process.exec('say "hello Patrick"', [], function(){console.log('ran it');});
+// child_process.exec('say "hello Patrick"', [], function(){console.log('ran it');});
 
 var tessel = require('tessel');
 var rfidlib = require('rfid-pn532');
