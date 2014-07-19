@@ -12,6 +12,7 @@
     "ambient-attx4": "^0.1.8",
     "rfid-pn532": "^0.1.5",
     "climate-si7020": "^0.1.0",
-    "camera-vc0706": "^0.1.6"
+    "camera-vc0706": "^0.1.6",
+    "audio-vs1053b": "^0.1.6"
   }
 }
